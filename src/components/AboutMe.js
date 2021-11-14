@@ -7,12 +7,12 @@ function AboutMe() {
 		<div
 			style={{
 				background: "#282828",
-				height: "600px"
+				height: "auto"
 			}}>
 			<Header />
 			<div className="container">
 				<div className="row">
-					<div className="col-6">
+					<div className="col-lg-6">
 						<h1
 							style={{
 								color: "#085fc1",
@@ -45,7 +45,7 @@ function AboutMe() {
 							Technology, C#, Photography, & Graphic Design)
 						</p>
 					</div>
-					<div className="col-6">
+					<div className="col-lg-6">
 						<img
 							style={{
 								height: "450px",
