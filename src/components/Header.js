@@ -32,9 +32,12 @@ function Headers() {
 							</Link>
 						</NavItem>
 						<NavItem>
-							<Link to="/" className="header-text">
+							<a
+								target="_blank"
+								className="header-text"
+								href="https://docs.google.com/document/d/1QnloeGX3ZHIdMqb_uis5Zru7Zh2hiX58p24totBeva8/edit?usp=sharing">
 								Resume
-							</Link>
+							</a>
 						</NavItem>
 					</Nav>
 				</Navbar>
