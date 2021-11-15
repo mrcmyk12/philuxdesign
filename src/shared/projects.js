@@ -6,7 +6,7 @@ export const projects = [
 		projecttitle: "Movie Ticket Reservation App",
 		projectrole: "UX Design, Research, User Interface Design",
 		description:
-			"This movie ticketing app presents a streamlined interface to purchase tickets from your local theater.  It provides a plot synopsis, and trailers for the movies playing at your local theaters.  It is meant for people who don’t want to wait in line to buy movie tickets or for people on the go (busy parents, single parents, busy professionals) who want to purchase tickets easily and cheaply. ",
+			"This movie ticketing app presents a streamlined interface to purchase tickets from your local theater.  It provides a plot synopsis, and trailers for the movies playing at your local theaters.  It is meant for people who don’t want to wait in line to buy movie tickets or for people on the go (busy parents, single parents, busy professionals) who want to purchase tickets easily and affordably. ",
 		projectimage: "/assets/images/FreeGuyTitleImage.png",
         onedescription:'A mobile app that makes it easy to reserve movie tickets on-the-go in as few steps as possible.',
         projectprompt:'Design an app that solves a problem in an existing industry',

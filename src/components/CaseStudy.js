@@ -16,7 +16,7 @@ function CaseStudy() {
 				<h1
 					style={{
 						textAlign: "center",
-						color: "#bf2011",
+						color: "#c23728",
 						fontFamily: "Alfa Slab One",
 						marginTop: "100px",
 						fontSize: "75px"
@@ -61,7 +61,7 @@ function CaseStudy() {
 								<h3
 									style={{
 										fontFamily: "Roboto Slab",
-										color: "#bf2011",
+										color: "#c23728",
 										marginTop: "40px",
 										fontWeight: "bold"
 									}}>
@@ -75,7 +75,7 @@ function CaseStudy() {
 								<h3
 									style={{
 										fontFamily: "Roboto Slab",
-										color: "#bf2011",
+										color: "#c23728",
 										marginTop: "40px",
 										fontWeight: "bold",
 									
@@ -96,7 +96,7 @@ function CaseStudy() {
 							<h3
 								style={{
 									fontFamily: "Roboto Slab",
-									color: "#bf2011",
+									color: "#c23728",
 									fontWeight: "bold"
 								}}>
 								My Role:
@@ -135,7 +135,7 @@ function CaseStudy() {
 					<h1
 						style={{
 							textAlign: "center",
-							color: "#bf2011",
+							color: "#c23728",
 							fontFamily: "Roboto Slab",
 							fontWeight: "bold",
 							marginTop: "50px",
@@ -315,7 +315,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -329,7 +329,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -343,7 +343,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -444,7 +444,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -458,7 +458,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -472,7 +472,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -507,7 +507,7 @@ function CaseStudy() {
 						<h3
 							style={{
 								fontFamily: "Roboto Slab",
-								color: "#bf2011",
+								color: "#c23728",
 								marginTop: "40px",
 								fontWeight: "bold"
 							}}>
@@ -521,7 +521,7 @@ function CaseStudy() {
 						<h3
 							style={{
 								fontFamily: "Roboto Slab",
-								color: "#bf2011",
+								color: "#c23728",
 								marginTop: "40px",
 								fontWeight: "bold"
 							}}>
@@ -555,7 +555,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -569,7 +569,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
@@ -583,7 +583,7 @@ function CaseStudy() {
 					<div className="col-md-4">
 						<h3
 							style={{
-								color: "#bf2011",
+								color: "#c23728",
 								fontFamily: "Roboto Slab",
 								textAlign: "center",
 								fontWeight: "bolder"
