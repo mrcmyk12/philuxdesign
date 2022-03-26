@@ -1,6 +1,38 @@
 import { NavItem } from "reactstrap";
 
 export const projects = [
+    {
+        id:2,
+        projecttitle:"Vegan Sometimes",
+        projectrole:"Web Design, UI Design, Wordpress Theme Design",
+        description:"Vegan Somtimes is a wordpress site built using Javascript, HTML, CSS, and PHP.  It enables users to find vegan recipes as they transition into, or continue their vegan lifestlyes.  The client was looking to fill a hole in the vegan recipe market.",
+        projectimage:"/assets/images/vegansometimesscreenshot.png",
+        onedescription:"A wordpress site that enables users to search vegan recipes",
+        projectprompt:"Design and deploy a website that makes it easy to find vegan recipes",
+        problem:"There is no place on the internet that makes it easy to find vegan recipes without ill-placed advertisements and pop-ups",
+        goal:"Design a website with a clean interface that makes it easy to find vegan recipes by meal-type or to search vegan recipes by title",
+        myrole:"Programmer, Website Designer, UI Designer, Wordpress Theme Designer",
+        painpointstitle1:"Pop-Up Advertisements",
+        painpointstitle2:"Non-vegan recipes",
+        painpointstitle3:"Non-categorized recipes",
+        painpointscontent1:"Most recipe websites have too many advertisements and pop-up advertisements that take away from the user experience and make the site difficult to navigate",
+        painpointscontent2:"There are no recipe sites that focus solely on vegan recipes.  Most websites have a vegamn recipe section, but no website focused only on vegan recipes",
+        painpointscontent3:"A lot recipe sites lack categories for recipe types.  This site solves that problem by breaking down recipes into categories",
+        figmalink:"https://www.figma.com/file/eTidxXQBdXbvKx55toaSOa/VeganRecipe.com?node-id=0%3A1",
+        sitescreenshot1:"/assets/images/vegansometimesscreenshot1.png",
+        sitescreenshot2:"/assets/images/vegansometimesscreenshot2.png",
+        sitescreenshot3:"/assets/images/vegansometimesscreenshot3.png",
+        websitelink:"https://vegan-sometimes.com/",
+        githublink:"https://github.com/mrcmyk12/vegan-sometimes",
+        impact:"This website is a go-to place for vegan recipes online.  It takes the hassle out finding vegan recipes to incorporate into your already existing vegan diet.  It also makes it easy to begin the transition to a vegan diet.",
+        learned:"I learned the steps it takes to create and deploy a wordpress website. I increased my PHP skills as well as improved my skills with SQL Databases.",
+        steptitle1:"User Created Content",
+        steptitle2:"User Comments",
+        steptitle3:"User Ratings",
+        step1:"Create a way for users to submit their very own vegan recipes to increase recipes on the site",
+        step2:"Create a way for users to add their own comments to the site to critique or give tips on a particular recipe",
+        step3:"Create a user rating systems for all recipes"
+    },
 	{
 		id: 0,
 		projecttitle: "Movie Ticket Reservation App",
@@ -11,15 +43,15 @@ export const projects = [
         onedescription:'A mobile app that makes it easy to reserve movie tickets on-the-go in as few steps as possible.',
         projectprompt:'Design an app that solves a problem in an existing industry',
         problem:'Users want to be able to reserve movie tickets in as little time as possible.',
-        goal:'Design a mobile that makes it easy to reserve movie tickets on the go in as few steps as possible.',
+        goal:'Design a mobile app that makes it easy to reserve movie tickets on the go in as few steps as possible.',
         myrole:'UX Designer, UI Designer designing app from conception to delivery',
         researchsummary:`I conducted interviews and created empathy maps to understand the users (for whom the app is designed for) and their needs.  A primary user group identified through research were working professionals and single parents who don't have a lot of time to spend on reserving movie tickets`,
         painpointstitle1:'Time',
         painpointstitle2:'Confusion',
         painpointstitle3:'Knowledge',
-        painpointscontent1:'Theater-going adults don’t want to spend a lot of time picking out seats.  Or figuring out which seats give the best view',
+        painpointscontent1:"Theater-going adults don’t want to spend a lot of time picking out seats.  Or figuring out which seats give the best view",
         painpointscontent2:'Existing movie ticket reservation apps are cluttered and confusing',
-        painpointscontent3:'Users don’t know what movies are playing.  Or know nothing about the movies that are playing (i.e plot, rating, critical reception)',
+        painpointscontent3:"Users don’t know what movies are playing.  Or know nothing about the movies that are playing (i.e plot, rating, critical reception)",
         persona:'Karen  is a working mom and wife who needs a quick and intuitive way to reserve movie theater tickets because her family enjoys watching films, but doesn’t have a lot of free time to reserve tickets and figure out how to use an app.  Below are the User Persona and the User Journey Map',
         personaimage:'/assets/images/MovieAppUserPersona.png',
         personauserjourneymap:'/assets/images/MovieAppUserJourneyMap.png',
@@ -91,7 +123,7 @@ export const projects = [
         step1:'Conduct another round of usability studies to see which features need to be added to the app.',
         step2:'Upgrade the ratings system to be more specific and indicate certain business attributes that users would find useful.',
         step3:'Conduct another round of usability studies to see if the issues from first usability study were addressed properly.'
-	}
+	},
 ];
 
 export function getProjects() {

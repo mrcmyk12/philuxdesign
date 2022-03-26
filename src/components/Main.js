@@ -6,7 +6,7 @@ import Projects from "./Projects";
 import CaseStudy from "./CaseStudy";
 import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowCircleRight } from "@fortawesome/free-solid-svg-icons";
+import { faArrowCircleRight} from "@fortawesome/free-solid-svg-icons";
 
 class Main extends Component {
 	constructor(props) {
@@ -36,8 +36,9 @@ class Main extends Component {
 					<h3
 						className="title-screen-subtext"
 						style={{ marginTop: "0px" }}>
-						UX Engineer, UI/UX Designer
+						Website Designer, UI/UX Designer
 					</h3>
+					<FontAwesomeIcon icon="fab fa-js"/>
                     <h4 className="title-screen-subtext2">
 						<Link style={{textDecoration:'none'}} to="/projects">
 							Projects

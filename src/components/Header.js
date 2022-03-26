@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
 
 function Headers() {
 	return (
-		<div style={{ background: "#282828" }}>
+		<div style={{ background: "#282828"}}>
 			<nav>
 				<Navbar>
 					<Nav style={{ marginTop: "10px" }}>
