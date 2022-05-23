@@ -16,12 +16,12 @@ class Projects extends Component {
 
 	render() {
 		const projects = this.state.projects.map((project) => {
-			if (project.id === 2) {
+			if (project.id === 2 || project.id === 3) {
 				return (
 					<div
-						style={{ background: "#282828", margin_top: "50px" }}
+						style={{ background: "#282828", marginTop: "100px" }}
 						className="container">
-						<div className="row" style={{ margin_top: "50px" }}>
+						<div className="row" style={{ marginTop: "50px" }}>
 							<div className="col-lg-4 align-items-center">
 								<Link
 									style={{ textDecorationLine: "none" }}
@@ -32,7 +32,7 @@ class Projects extends Component {
 											className="title-project-image"
 											style={{
 												height: "200px",
-												padding_top: "50px"
+																								
 											}}
 											src={project.projectimage}
 										/>

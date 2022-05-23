@@ -9,7 +9,7 @@ function CaseStudy() {
 	let params = useParams();
 	let caseStudy = getProject(parseInt(params.id, 10));
 
-	if(caseStudy.id === 2){
+	if(caseStudy.id === 2 || caseStudy.id === 3){
 		return(
 			<div style={{ background: "#282828", height:'auto'}}>
 			<Header />
